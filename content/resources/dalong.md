@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: dalong.pdf
-type: OCWFile
 uid: 64a3aa4e-ce41-6791-7c13-7a30fdabdb7c
 ---

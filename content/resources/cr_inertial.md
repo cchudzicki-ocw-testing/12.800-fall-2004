@@ -13,6 +13,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Image
 title: cr_inertial.jpg
-type: OCWImage
 uid: 9029e071-ff24-b047-d7f1-80c3d52e678c
 ---

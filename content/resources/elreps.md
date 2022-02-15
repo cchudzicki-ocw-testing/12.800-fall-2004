@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: elreps.pdf
-type: OCWFile
 uid: 7a879633-aea6-163d-0867-6a971446da9f
 ---

@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Other
 title: pset9.doc
-type: OCWFile
 uid: 00548218-9b74-8c01-89b7-ecdd752103f8
 ---

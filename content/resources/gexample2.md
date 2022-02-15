@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Other
 title: gexample2.zip
-type: OCWFile
 uid: 6e62e1db-2d9c-ff5f-8224-bdbb2f3f9ed4
 ---

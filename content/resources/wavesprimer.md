@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: wavesprimer.pdf
-type: OCWFile
 uid: 6aae0ce5-8d9d-0548-af48-2b517ffe591c
 ---

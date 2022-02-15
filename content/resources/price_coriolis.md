@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: price_coriolis.pdf
-type: OCWFile
 uid: df1b6591-f0a9-3bba-0c56-ba7735efb057
 ---

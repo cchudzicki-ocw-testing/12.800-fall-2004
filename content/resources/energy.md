@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: energy.pdf
-type: OCWFile
 uid: b2f2a20e-fc8f-36b4-b5b8-2ee4a6f039e1
 ---
