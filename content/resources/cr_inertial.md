@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: cr_inertial.jpg
 uid: 9029e071-ff24-b047-d7f1-80c3d52e678c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

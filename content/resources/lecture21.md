@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lecture21.pdf
 uid: bd93c290-3904-0c13-dfc0-b42ab1a84ccb
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

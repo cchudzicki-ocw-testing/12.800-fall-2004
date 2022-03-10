@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: finalreview.pdf
 uid: 12338788-8816-ae13-5204-9141db64a789
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
