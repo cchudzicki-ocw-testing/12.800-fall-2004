@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: price_coriolis.pdf
 uid: df1b6591-f0a9-3bba-0c56-ba7735efb057
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

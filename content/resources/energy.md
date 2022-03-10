@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: energy.pdf
 uid: b2f2a20e-fc8f-36b4-b5b8-2ee4a6f039e1
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

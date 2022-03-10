@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Readings
 uid: 8f69ea00-89ad-db31-2aa7-56c15ecee7d9
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 The handouts from [Jim Price](http://www.whoi.edu/sbl/liteSite.do?litesiteid=8232)  (Sr. Scientist, Woods Hole Oceanographic Institution) used in the lecture notes section of this course are now available as an online publication:  [_Topics in Fluid Dynamics: Dimensional Analysis, the Coriolis Force, and Lagrangian and Eulerian Representations_](/resources/res-12-001-topics-in-fluid-dynamics-spring-2010).

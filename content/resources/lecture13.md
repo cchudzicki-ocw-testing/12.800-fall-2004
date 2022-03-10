@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lecture13.pdf
 uid: 39ab5419-814f-2e2e-3eff-bf2a84967f95
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

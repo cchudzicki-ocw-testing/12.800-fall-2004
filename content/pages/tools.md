@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Tools
 uid: ad1d1bbe-ec74-30a6-cdb1-1c373be98efa
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 MATLAB® Scripts

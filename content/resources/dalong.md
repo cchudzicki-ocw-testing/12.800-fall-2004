@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: dalong.pdf
 uid: 64a3aa4e-ce41-6791-7c13-7a30fdabdb7c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

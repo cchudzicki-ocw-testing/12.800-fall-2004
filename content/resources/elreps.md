@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: elreps.pdf
 uid: 7a879633-aea6-163d-0867-6a971446da9f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

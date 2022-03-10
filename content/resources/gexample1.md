@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: gexample1.zip
 uid: c67ade14-adf4-8743-a846-37f8b18d0d3e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
