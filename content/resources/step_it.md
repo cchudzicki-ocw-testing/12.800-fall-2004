@@ -14,4 +14,6 @@ title: step_it.m
 uid: 3cb226fa-7ff8-8402-d173-ced31072ef1d
 video_files:
   video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
