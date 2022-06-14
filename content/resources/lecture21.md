@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Brief outline of topics covered in the lecture.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/12-800-fluid-dynamics-of-the-atmosphere-and-ocean-fall-2004/bd93c29039040c13dfc0b42ab1a84ccb_lecture21.pdf
+file: /courses/12-800-fluid-dynamics-of-the-atmosphere-and-ocean-fall-2004/bd93c29039040c13dfc0b42ab1a84ccb_lecture21.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Brief outline of topics covered in the lecture.

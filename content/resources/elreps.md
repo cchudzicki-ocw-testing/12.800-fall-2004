@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Background reading assignment related to lecture.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/12-800-fluid-dynamics-of-the-atmosphere-and-ocean-fall-2004/7a879633aea6163d08676a971446da9f_elreps.pdf
+file: /courses/12-800-fluid-dynamics-of-the-atmosphere-and-ocean-fall-2004/7a879633aea6163d08676a971446da9f_elreps.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Background reading assignment related to lecture.

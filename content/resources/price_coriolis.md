@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture handout.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/12-800-fluid-dynamics-of-the-atmosphere-and-ocean-fall-2004/df1b6591f0a93bba0c56ba7735efb057_price_coriolis.pdf
+file: /courses/12-800-fluid-dynamics-of-the-atmosphere-and-ocean-fall-2004/df1b6591f0a93bba0c56ba7735efb057_price_coriolis.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Lecture handout.
